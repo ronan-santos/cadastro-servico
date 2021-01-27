@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.login\=dbae43ebe3e2268eeb2a8ba76f4431e60b6081ce\r\nsonar.host.url\=https\://qa.sirius.tivit.com.br
+projectKey=br.com\:cadastro
+serverUrl=http\://localhost\:9000
+version=2
